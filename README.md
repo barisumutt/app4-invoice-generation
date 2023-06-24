@@ -8,9 +8,7 @@ Ensure that you have the following dependencies installed in your Python environ
 - fpdf
 - glob
 - pathlib
-You can install these dependencies by running the following command:
-
-Copy code
+You can install these dependencies by runn
 ```bash
 pip install pandas fpdf
 ```
